@@ -7,7 +7,7 @@ myrg = {
 
    rgs1 = {
 
-        name = reg2
+        name = utkarsh
         location = "Central India"
     }
 }
